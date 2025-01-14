@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marius-schairer
+- 👋 Hi, I’m @marius-schairer (short = mars)
 - 👀 I’m interested collaborative & smart systems & citiy development
 - 🤖 I’m currently learning artificial intelligence integrations and Prototyping
 - 🤝 I’m looking to collaborate on Prototyping future concepts
