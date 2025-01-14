@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on Prototyping future concepts
 - 📞 How to reach me: call if you have my number
 - 🕝 when to reach me: better in the afternoon
-- 🍽️ Favourit food: 🥪 🍔 🥙 🌮 🌯
+- 🍽️ Favorite food: 🥪 🍔 🥙 🌮 🌯
 - 🌍 I'm originally from Stuttgart, Germany 🍇
 
 - Previous Profile: https://github.com/marius220699
